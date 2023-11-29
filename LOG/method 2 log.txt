@@ -1,0 +1,1408 @@
+"C:\Users\99232\Desktop\EEEN60070 Dissertation\qingyuan\venv\Scripts\python.exe" "C:\Users\99232\Desktop\EEEN60070 Dissertation\qingyuan\v4.py" 
+Please enter the path to the file: dataset
+File path entered: dataset
+'clear image' and 'blurred image' folders have been created in dataset.
+ ('.JPG', '.jpg', '.jpeg') files in dataset have been copied to the 'pending_image'.
+Image: dataset\pending_image\0_IPHONE-SE_M.JPG,CPBD value: 0.4811320754716981,Percentage completion: 0.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\0_IPHONE-SE_S.JPG,CPBD value: 0.7076167076167076,Percentage completion: 0.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\100_NIKON-D3400-35MM_M.JPG,CPBD value: 0.655,Percentage completion: 0.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\100_NIKON-D3400-35MM_S.JPG,CPBD value: 0.4326923076923077,Percentage completion: 0.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\101_NIKON-D3400-35MM_M.JPG,CPBD value: 0.5,Percentage completion: 0.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\101_NIKON-D3400-35MM_S.JPG,CPBD value: 0.5454545454545454,Percentage completion: 0.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\102_NIKON-D3400-35MM_M.JPG,CPBD value: 0.74,Percentage completion: 1.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\102_NIKON-D3400-35MM_S.JPG,CPBD value: 0.41089108910891087,Percentage completion: 1.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\103_HUAWEI-P20_M.jpg,CPBD value: 0.568561872909699,Percentage completion: 1.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\103_HUAWEI-P20_S.jpg,CPBD value: 0.5921483097055616,Percentage completion: 1.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\104_IPHONE-SE_M.jpg,CPBD value: 0.16666666666666666,Percentage completion: 1.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\104_IPHONE-SE_S.jpg,CPBD value: 0.7551020408163265,Percentage completion: 1.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\105_IPHONE-SE_M.jpg,CPBD value: 0.1111111111111111,Percentage completion: 1.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\105_IPHONE-SE_S.jpg,CPBD value: 0.7037037037037037,Percentage completion: 2.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\106_NIKON-D3400-35MM_M.JPG,CPBD value: 0.4890710382513661,Percentage completion: 2.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\106_NIKON-D3400-35MM_S.JPG,CPBD value: 0.4879725085910653,Percentage completion: 2.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\107_XIAOMI-MI8-SE_M.jpg,CPBD value: 0.39849624060150374,Percentage completion: 2.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\107_XIAOMI-MI8-SE_S.jpg,CPBD value: 0.5953389830508474,Percentage completion: 2.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\108_XIAOMI-MI8-SE_M.jpg,CPBD value: 0.42857142857142855,Percentage completion: 2.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\108_XIAOMI-MI8-SE_S.jpg,CPBD value: 0.6656976744186046,Percentage completion: 2.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\109_HONOR-7X_M.jpg,CPBD value: 0.678082191780822,Percentage completion: 3.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\109_HONOR-7X_S.jpg,CPBD value: 0.6979166666666666,Percentage completion: 3.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\10_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg,CPBD value: 0,Percentage completion: 3.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\10_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg,CPBD value: 0.5050847457627119,Percentage completion: 3.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\110_IPHONE-7_M.jpeg,CPBD value: 0.5178571428571429,Percentage completion: 3.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\110_IPHONE-7_S.jpeg,CPBD value: 0.6512820512820513,Percentage completion: 3.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\111_IPHONE-7_M.jpeg,CPBD value: 0.3170731707317073,Percentage completion: 3.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\111_IPHONE-7_S.jpeg,CPBD value: 0.5974842767295597,Percentage completion: 4.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\112_NIKON-D3400-35MM_M.JPG,CPBD value: 0.1935483870967742,Percentage completion: 4.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\112_NIKON-D3400-35MM_S.JPG,CPBD value: 0.5543478260869565,Percentage completion: 4.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\113_SAMSUNG-GALAXY-A5_M.jpg,CPBD value: 0.44881889763779526,Percentage completion: 4.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\113_SAMSUNG-GALAXY-A5_S.jpg,CPBD value: 0.6716016150740243,Percentage completion: 4.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\114_ASUS-ZE500KL_M.jpg,CPBD value: 0.29411764705882354,Percentage completion: 4.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\114_ASUS-ZE500KL_S.jpg,CPBD value: 0.6039603960396039,Percentage completion: 4.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\115_NIKON-D3400-35MM_M.JPG,CPBD value: 0.20634920634920634,Percentage completion: 5.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\115_NIKON-D3400-35MM_S.JPG,CPBD value: 0.38458660680882906,Percentage completion: 5.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\116_BQ-5512L_M.jpg,CPBD value: 0.5238095238095238,Percentage completion: 5.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\116_BQ-5512L_S.jpg,CPBD value: 0.6693711967545639,Percentage completion: 5.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\117_HONOR-7X_M.jpg,CPBD value: 0.44525547445255476,Percentage completion: 5.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\117_HONOR-7X_S.jpg,CPBD value: 0.6670157068062827,Percentage completion: 5.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\118_HONOR-7X_M.jpg,CPBD value: 0.5087209302325582,Percentage completion: 5.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\118_HONOR-7X_S.jpg,CPBD value: 0.42668024439918534,Percentage completion: 6.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\119_HONOR-7X_M.jpg,CPBD value: 0.30434782608695654,Percentage completion: 6.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\119_HONOR-7X_S.jpg,CPBD value: 0.5304162219850587,Percentage completion: 6.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\11_XIAOMI-MI8-SE_M.jpg,CPBD value: 0.2789115646258503,Percentage completion: 6.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\11_XIAOMI-MI8-SE_S.jpg,CPBD value: 0.6262626262626263,Percentage completion: 6.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\120_HONOR-7X_M.jpg,CPBD value: 0.0,Percentage completion: 6.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\120_HONOR-7X_S.jpg,CPBD value: 0.5714285714285714,Percentage completion: 6.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\121_HONOR-7X_M.jpg,CPBD value: 0.5369127516778524,Percentage completion: 7.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\121_HONOR-7X_S.jpg,CPBD value: 0.6748046875,Percentage completion: 7.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\122_HONOR-7X_M.jpg,CPBD value: 0.603202846975089,Percentage completion: 7.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\122_HONOR-7X_S.jpg,CPBD value: 0.6961250849762066,Percentage completion: 7.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\123_NIKON-D3400-35MM_M.JPG,CPBD value: 0.5,Percentage completion: 7.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\123_NIKON-D3400-35MM_S.JPG,CPBD value: 0.7857142857142857,Percentage completion: 7.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\124_HONOR-7X_M.jpg,CPBD value: 0.4655581947743468,Percentage completion: 7.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\124_HONOR-7X_S.jpg,CPBD value: 0.722649319929036,Percentage completion: 8.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\125_NIKON-D3400-35MM_M.JPG,CPBD value: 0,Percentage completion: 8.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\125_NIKON-D3400-35MM_S.JPG,CPBD value: 0.4281842818428184,Percentage completion: 8.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\126_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.2,Percentage completion: 8.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\126_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.41472868217054265,Percentage completion: 8.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\127_IPHONE-8_M.jpeg,CPBD value: 0.00625,Percentage completion: 8.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\127_IPHONE-8_S.jpeg,CPBD value: 0.22727272727272727,Percentage completion: 8.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\128_XIAOMI-MI8-SE_M.jpg,CPBD value: 0.41606886657101866,Percentage completion: 9.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\128_XIAOMI-MI8-SE_S.jpg,CPBD value: 0.5559246954595792,Percentage completion: 9.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\129_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.2932692307692308,Percentage completion: 9.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\129_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6213476446034586,Percentage completion: 9.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\12_SAMSUNG-GALAXY-J5_M.jpg,CPBD value: 0.16666666666666666,Percentage completion: 9.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\12_SAMSUNG-GALAXY-J5_S.jpg,CPBD value: 0.44782608695652176,Percentage completion: 9.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\130_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.41379310344827586,Percentage completion: 9.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\130_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6861924686192469,Percentage completion: 10.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\131_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.6381418092909535,Percentage completion: 10.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\131_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.703243003109729,Percentage completion: 10.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\132_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.6347826086956522,Percentage completion: 10.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\132_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6921166977032899,Percentage completion: 10.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\133_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.2755102040816326,Percentage completion: 10.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\133_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.48348068869241506,Percentage completion: 10.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\134_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.7368421052631579,Percentage completion: 11.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\134_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6594285714285715,Percentage completion: 11.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\135_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.49074074074074076,Percentage completion: 11.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\135_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6985887096774194,Percentage completion: 11.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\136_XIAOMI-REDMI-3S_M.jpg,CPBD value: 0.7735849056603774,Percentage completion: 11.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\136_XIAOMI-REDMI-3S_S.jpg,CPBD value: 0.6271450858034321,Percentage completion: 11.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\137_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.3516949152542373,Percentage completion: 11.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\137_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.5334403424291064,Percentage completion: 12.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\138_NIKON-D3400-35MM_M.JPG,CPBD value: 0.4,Percentage completion: 12.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\138_NIKON-D3400-35MM_S.JPG,CPBD value: 0.7332601536772777,Percentage completion: 12.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\139_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.6744186046511628,Percentage completion: 12.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\139_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6615384615384615,Percentage completion: 12.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\13_IPHONE-8-PLUS_M.jpg,CPBD value: 0.3023255813953488,Percentage completion: 12.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\13_IPHONE-8-PLUS_S.jpg,CPBD value: 0.5994123408423114,Percentage completion: 12.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\140_SAMSUNG-GALAXY-J5_M.jpg,CPBD value: 0.2894736842105263,Percentage completion: 13.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\140_SAMSUNG-GALAXY-J5_S.jpg,CPBD value: 0.6217765042979942,Percentage completion: 13.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\141_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.576271186440678,Percentage completion: 13.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\141_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6537421100090172,Percentage completion: 13.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\142_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.5795918367346938,Percentage completion: 13.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\142_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.49219391947411667,Percentage completion: 13.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\143_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.42857142857142855,Percentage completion: 13.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\143_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.5697856769472034,Percentage completion: 14.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\144_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.8888888888888888,Percentage completion: 14.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\144_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.5815602836879432,Percentage completion: 14.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\145_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.4829059829059829,Percentage completion: 14.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\145_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6252960682141165,Percentage completion: 14.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\146_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.5316455696202531,Percentage completion: 14.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\146_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6725014116318464,Percentage completion: 14.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\147_NIKON-D3400-35MM_M.JPG,CPBD value: 0.47368421052631576,Percentage completion: 15.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\147_NIKON-D3400-35MM_S.JPG,CPBD value: 0.5677062771417292,Percentage completion: 15.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\148_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.49101796407185627,Percentage completion: 15.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\148_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.4967373572593801,Percentage completion: 15.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\149_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.5320284697508897,Percentage completion: 15.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\149_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6962915601023018,Percentage completion: 15.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\14_IPHONE-7_M.jpeg,CPBD value: 0.0,Percentage completion: 15.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\14_IPHONE-7_S.jpeg,CPBD value: 0.5565217391304348,Percentage completion: 16.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\150_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.54,Percentage completion: 16.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\150_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6813406703351675,Percentage completion: 16.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\151_NIKON-D3400-35MM_M.JPG,CPBD value: 0.41968911917098445,Percentage completion: 16.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\151_NIKON-D3400-35MM_S.JPG,CPBD value: 0.7232283464566929,Percentage completion: 16.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\152_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.1576923076923077,Percentage completion: 16.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\152_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6469352014010508,Percentage completion: 16.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\153_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.39473684210526316,Percentage completion: 17.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\153_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.5570032573289903,Percentage completion: 17.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\154_IPHONE-7_M.jpeg,CPBD value: 0.4222222222222222,Percentage completion: 17.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\154_IPHONE-7_S.jpeg,CPBD value: 0.3506726457399103,Percentage completion: 17.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\155_HONOR-10_M.jpg,CPBD value: 0.5207100591715976,Percentage completion: 17.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\155_HONOR-10_S.jpg,CPBD value: 0.6655629139072847,Percentage completion: 17.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\156_HUAWEI-P30-LITE_M.jpg,CPBD value: 0.0,Percentage completion: 17.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\156_HUAWEI-P30-LITE_S.jpg,CPBD value: 0.509090909090909,Percentage completion: 18.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\157_NIKON-D3400-35MM_M.JPG,CPBD value: 0.5288590604026846,Percentage completion: 18.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\157_NIKON-D3400-35MM_S.JPG,CPBD value: 0.7079449622725256,Percentage completion: 18.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\158_IPHONE-7_M.jpeg,CPBD value: 0.28,Percentage completion: 18.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\158_IPHONE-7_S.jpeg,CPBD value: 0.5954545454545455,Percentage completion: 18.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\159_NIKON-D3400-35MM_M.JPG,CPBD value: 0.5833333333333334,Percentage completion: 18.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\159_NIKON-D3400-35MM_S.JPG,CPBD value: 0.7621848739495798,Percentage completion: 18.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\15_HONOR-7C_M.jpg,CPBD value: 0.0,Percentage completion: 19.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\15_HONOR-7C_S.jpg,CPBD value: 0.3157894736842105,Percentage completion: 19.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\160_HUAWEI-P20-LITE_M.jpg,CPBD value: 0.5965559655596556,Percentage completion: 19.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\160_HUAWEI-P20-LITE_S.jpg,CPBD value: 0.4726190476190476,Percentage completion: 19.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\161_XIAOMI-MI8-SE_M.jpg,CPBD value: 0.3815789473684211,Percentage completion: 19.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\161_XIAOMI-MI8-SE_S.jpg,CPBD value: 0.5955056179775281,Percentage completion: 19.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\162_IPHONE-6S_M.jpg,CPBD value: 0.5,Percentage completion: 19.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\162_IPHONE-6S_S.jpg,CPBD value: 0.0975609756097561,Percentage completion: 20.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\163_SAMSUNG-GALAXY-GRAND-PRIME-PLUS_M.jpg,CPBD value: 0.25,Percentage completion: 20.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\163_SAMSUNG-GALAXY-GRAND-PRIME-PLUS_S.jpg,CPBD value: 0.4280078895463511,Percentage completion: 20.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\164_XIAOMI-MI8-SE_M.jpg,CPBD value: 0.3,Percentage completion: 20.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\164_XIAOMI-MI8-SE_S.jpg,CPBD value: 0.665283540802213,Percentage completion: 20.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\165_SAMSUNG-GALAXY-J3_M.jpg,CPBD value: 0.3333333333333333,Percentage completion: 20.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\165_SAMSUNG-GALAXY-J3_S.jpg,CPBD value: 0.58203125,Percentage completion: 20.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\166_XIAOMI-MI8-SE_M.jpg,CPBD value: 0.20512820512820512,Percentage completion: 21.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\166_XIAOMI-MI8-SE_S.jpg,CPBD value: 0.4324817518248175,Percentage completion: 21.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\167_HONOR-7X_M.jpg,CPBD value: 0.0,Percentage completion: 21.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\167_HONOR-7X_S.jpg,CPBD value: 0.6143344709897611,Percentage completion: 21.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\168_CANON-6D-100MM_M.JPG,CPBD value: 0.0,Percentage completion: 21.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\168_CANON-6D-100MM_S.JPG,CPBD value: 0.5512820512820513,Percentage completion: 21.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\169_HONOR-7X_M.jpg,CPBD value: 0.0,Percentage completion: 21.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\169_HONOR-7X_S.jpg,CPBD value: 0.6506746626686657,Percentage completion: 22.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\16_IPHONE-7_M.jpeg,CPBD value: 0.0,Percentage completion: 22.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\16_IPHONE-7_S.jpeg,CPBD value: 0.6445993031358885,Percentage completion: 22.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\170_IPHONE-8_M.JPG,CPBD value: 0.4979919678714859,Percentage completion: 22.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\170_IPHONE-8_S.JPG,CPBD value: 0.8008915304606241,Percentage completion: 22.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\171_HUAWEI-P20-LITE_M.jpg,CPBD value: 0.23076923076923078,Percentage completion: 22.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\171_HUAWEI-P20-LITE_S.jpg,CPBD value: 0.23770491803278687,Percentage completion: 22.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\172_IPHONE-SE_M.jpg,CPBD value: 0.34146341463414637,Percentage completion: 23.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\172_IPHONE-SE_S.jpg,CPBD value: 0.7677053824362606,Percentage completion: 23.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\173_IPHONE-SE_M.jpg,CPBD value: 0.31645569620253167,Percentage completion: 23.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\173_IPHONE-SE_S.jpg,CPBD value: 0.6556291390728477,Percentage completion: 23.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\174_HUAWEI-P20_M.jpg,CPBD value: 0.5416666666666666,Percentage completion: 23.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\174_HUAWEI-P20_S.jpg,CPBD value: 0.7239263803680982,Percentage completion: 23.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\175_IPHONE-SE_M.jpg,CPBD value: 0.23655913978494625,Percentage completion: 23.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\175_IPHONE-SE_S.jpg,CPBD value: 0.7016574585635359,Percentage completion: 24.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\176_HONOR-7X_M.jpg,CPBD value: 0.627906976744186,Percentage completion: 24.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\176_HONOR-7X_S.jpg,CPBD value: 0.7572674418604651,Percentage completion: 24.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\177_HONOR-7X_M.jpg,CPBD value: 0.4666666666666667,Percentage completion: 24.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\177_HONOR-7X_S.jpg,CPBD value: 0.6355555555555555,Percentage completion: 24.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\178_HONOR-7X_M.jpg,CPBD value: 0.47619047619047616,Percentage completion: 24.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\178_HONOR-7X_S.jpg,CPBD value: 0.6344605475040258,Percentage completion: 24.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\179_CANON-6D-100MM_M.JPG,CPBD value: 0.0,Percentage completion: 25.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\179_CANON-6D-100MM_S.JPG,CPBD value: 0.6334310850439883,Percentage completion: 25.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\17_HUAWEI-MATE20_M.jpg,CPBD value: 0.6183844011142061,Percentage completion: 25.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\17_HUAWEI-MATE20_S.jpg,CPBD value: 0.6768350810295519,Percentage completion: 25.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\180_HONOR-10_M.jpg,CPBD value: 0.284789644012945,Percentage completion: 25.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\180_HONOR-10_S.jpg,CPBD value: 0.4445640473627557,Percentage completion: 25.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\181_HONOR-10_M.jpg,CPBD value: 0.0,Percentage completion: 25.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\181_HONOR-10_S.jpg,CPBD value: 0.6753623188405797,Percentage completion: 26.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\182_HONOR-10_M.jpg,CPBD value: 0.3023255813953488,Percentage completion: 26.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\182_HONOR-10_S.jpg,CPBD value: 0.6085011185682326,Percentage completion: 26.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\183_XIAOMI-REDMI-7_M.jpg,CPBD value: 0.42909356725146197,Percentage completion: 26.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\183_XIAOMI-REDMI-7_S.jpg,CPBD value: 0.5662650602409639,Percentage completion: 26.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\184_HONOR-10_M.jpg,CPBD value: 0.45454545454545453,Percentage completion: 26.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\184_HONOR-10_S.jpg,CPBD value: 0.6401468788249693,Percentage completion: 26.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\185_HONOR-6X_M.jpg,CPBD value: 0.46994535519125685,Percentage completion: 27.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\185_HONOR-6X_S.jpg,CPBD value: 0.5425531914893617,Percentage completion: 27.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\186_HONOR-8_M.jpg,CPBD value: 0,Percentage completion: 27.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\186_HONOR-8_S.jpg,CPBD value: 0.41770401106500693,Percentage completion: 27.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\187_XIAOMI-REDMI-4A_M.jpg,CPBD value: 0.35555555555555557,Percentage completion: 27.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\187_XIAOMI-REDMI-4A_S.jpg,CPBD value: 0.5653896961690885,Percentage completion: 27.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\188_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.3,Percentage completion: 27.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\188_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6320182094081942,Percentage completion: 28.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\189_HONOR-7X_M.jpg,CPBD value: 0.3888888888888889,Percentage completion: 28.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\189_HONOR-7X_S.jpg,CPBD value: 0.6100872938894277,Percentage completion: 28.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\18_XIAOMI-REDMI-5-PLUS_M.jpg,CPBD value: 0.4166666666666667,Percentage completion: 28.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\18_XIAOMI-REDMI-5-PLUS_S.jpg,CPBD value: 0.3962900505902192,Percentage completion: 28.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\190_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.0,Percentage completion: 28.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\190_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.08100558659217877,Percentage completion: 28.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\191_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0,Percentage completion: 29.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\191_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.4556213017751479,Percentage completion: 29.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\192_XIAOMI-MI8-SE_M.jpg,CPBD value: 0.35135135135135137,Percentage completion: 29.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\192_XIAOMI-MI8-SE_S.jpg,CPBD value: 0.49122807017543857,Percentage completion: 29.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\193_IPHONE-7_M.jpeg,CPBD value: 0.28205128205128205,Percentage completion: 29.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\193_IPHONE-7_S.jpeg,CPBD value: 0.4458968772694263,Percentage completion: 29.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\194_IPHONE-SE_M.jpg,CPBD value: 0.6666666666666666,Percentage completion: 29.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\194_IPHONE-SE_S.jpg,CPBD value: 0.6818181818181818,Percentage completion: 30.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\195_IPHONE-7_M.jpeg,CPBD value: 0.0,Percentage completion: 30.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\195_IPHONE-7_S.jpeg,CPBD value: 0.6825775656324582,Percentage completion: 30.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\196_IPHONE-SE_M.jpg,CPBD value: 0.5714285714285714,Percentage completion: 30.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\196_IPHONE-SE_S.jpg,CPBD value: 0.5950413223140496,Percentage completion: 30.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\197_HUAWEI-P20-LITE_M.jpg,CPBD value: 0.475177304964539,Percentage completion: 30.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\197_HUAWEI-P20-LITE_S.jpg,CPBD value: 0.6013179571663921,Percentage completion: 30.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\198_HUAWEI-P20-LITE_M.jpg,CPBD value: 0.21830985915492956,Percentage completion: 31.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\198_HUAWEI-P20-LITE_S.jpg,CPBD value: 0.4567901234567901,Percentage completion: 31.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\199_CANON-6D-100MM_M.JPG,CPBD value: 0.5555555555555556,Percentage completion: 31.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\199_CANON-6D-100MM_S.JPG,CPBD value: 0.5897435897435898,Percentage completion: 31.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\19_IPHONE-7-PLUS_M.jpeg,CPBD value: 0.23076923076923078,Percentage completion: 31.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\19_IPHONE-7-PLUS_S.jpeg,CPBD value: 0.7506493506493507,Percentage completion: 31.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\1_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.4017857142857143,Percentage completion: 31.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\1_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.65625,Percentage completion: 32.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\200_HUAWEI-MATE20_M.jpg,CPBD value: 0.5757575757575758,Percentage completion: 32.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\200_HUAWEI-MATE20_S.jpg,CPBD value: 0.45703125,Percentage completion: 32.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\201_IPHONE-SE_M.jpg,CPBD value: 0.5185185185185185,Percentage completion: 32.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\201_IPHONE-SE_S.jpg,CPBD value: 0.6843501326259946,Percentage completion: 32.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\202_HUAWEI-P20-LITE_M.jpg,CPBD value: 0.3711151736745887,Percentage completion: 32.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\202_HUAWEI-P20-LITE_S.jpg,CPBD value: 0.5803571428571429,Percentage completion: 32.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\203_IPHONE-SE_M.jpg,CPBD value: 0.08333333333333333,Percentage completion: 33.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\203_IPHONE-SE_S.jpg,CPBD value: 0.5035460992907801,Percentage completion: 33.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\204_XIAOMI-MI8-SE_M.jpg,CPBD value: 0.35904255319148937,Percentage completion: 33.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\204_XIAOMI-MI8-SE_S.jpg,CPBD value: 0.5896551724137931,Percentage completion: 33.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\205_HUAWEI-P20-LITE_M.jpg,CPBD value: 0.3155594405594406,Percentage completion: 33.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\205_HUAWEI-P20-LITE_S.jpg,CPBD value: 0.5483193277310925,Percentage completion: 33.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\206_IPHONE-7_M.jpg,CPBD value: 0.34146341463414637,Percentage completion: 33.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\206_IPHONE-7_S.jpg,CPBD value: 0.6143497757847534,Percentage completion: 34.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\207_SAMSUNG-GALAXY-J7_M.jpg,CPBD value: 0.7142857142857143,Percentage completion: 34.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\207_SAMSUNG-GALAXY-J7_S.jpg,CPBD value: 0.6992084432717678,Percentage completion: 34.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\208_SAMSUNG-GALAXY-A5_M.jpg,CPBD value: 0.3574468085106383,Percentage completion: 34.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\208_SAMSUNG-GALAXY-A5_S.jpg,CPBD value: 0.4687168610816543,Percentage completion: 34.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\209_SAMSUNG-GALAXY-A8_M.jpg,CPBD value: 0,Percentage completion: 34.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\209_SAMSUNG-GALAXY-A8_S.jpg,CPBD value: 0.6564102564102564,Percentage completion: 34.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\20_XIAOMI-REDMI-3S_M.jpg,CPBD value: 0.5,Percentage completion: 35.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\20_XIAOMI-REDMI-3S_S.jpg,CPBD value: 0.5405405405405406,Percentage completion: 35.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\210_CANON-6D-70-200MM_M.JPG,CPBD value: 0.0,Percentage completion: 35.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\210_CANON-6D-70-200MM_S.JPG,CPBD value: 0.2803203661327231,Percentage completion: 35.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\211_SAMSUNG-GALAXY-7-NEO_M.jpg,CPBD value: 0.3103448275862069,Percentage completion: 35.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\211_SAMSUNG-GALAXY-7-NEO_S.jpg,CPBD value: 0.564625850340136,Percentage completion: 35.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\212_IPHONE-SE_M.jpg,CPBD value: 0.2857142857142857,Percentage completion: 35.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\212_IPHONE-SE_S.jpg,CPBD value: 0.5482233502538071,Percentage completion: 36.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\213_ONEPLUS-3T_M.jpg,CPBD value: 0.25,Percentage completion: 36.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\213_ONEPLUS-3T_S.jpg,CPBD value: 0.5253827558420628,Percentage completion: 36.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\214_IPHONE-SE_M.jpg,CPBD value: 0.44,Percentage completion: 36.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\214_IPHONE-SE_S.jpg,CPBD value: 0.46647230320699706,Percentage completion: 36.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\215_LG-Q6_M.jpg,CPBD value: 0.19230769230769232,Percentage completion: 36.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\215_LG-Q6_S.jpg,CPBD value: 0.5173745173745173,Percentage completion: 36.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\216_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg,CPBD value: 0.0,Percentage completion: 37.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\216_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg,CPBD value: 0.49355432780847147,Percentage completion: 37.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\217_IPHONE-SE_M.jpg,CPBD value: 0.0,Percentage completion: 37.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\217_IPHONE-SE_S.jpg,CPBD value: 0.7253948967193196,Percentage completion: 37.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\218_IPHONE-SE_M.jpg,CPBD value: 0.0,Percentage completion: 37.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\218_IPHONE-SE_S.jpg,CPBD value: 0.2971246006389776,Percentage completion: 37.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\219_IPHONE-6S_M.jpg,CPBD value: 0.25,Percentage completion: 37.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\219_IPHONE-6S_S.jpg,CPBD value: 0.55,Percentage completion: 38.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\21_HUAWEI-Y9_M.jpg,CPBD value: 0.5111111111111111,Percentage completion: 38.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\21_HUAWEI-Y9_S.jpg,CPBD value: 0.6246719160104987,Percentage completion: 38.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\220_IPHONE-6_M.jpg,CPBD value: 0.49466192170818507,Percentage completion: 38.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\220_IPHONE-6_S.jpg,CPBD value: 0.6440443213296398,Percentage completion: 38.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\221_IPHONE-SE_M.jpg,CPBD value: 0.3333333333333333,Percentage completion: 38.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\221_IPHONE-SE_S.jpg,CPBD value: 0.5844155844155844,Percentage completion: 38.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\222_IPHONE-SE_M.jpg,CPBD value: 0,Percentage completion: 39.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\222_IPHONE-SE_S.jpg,CPBD value: 0.4838709677419355,Percentage completion: 39.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\223_HONOR-4C_M.jpg,CPBD value: 0.0392156862745098,Percentage completion: 39.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\223_HONOR-4C_S.jpg,CPBD value: 0.13527851458885942,Percentage completion: 39.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\224_ONEPLUS-3T_M.jpg,CPBD value: 0.18904109589041096,Percentage completion: 39.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\224_ONEPLUS-3T_S.jpg,CPBD value: 0.502803738317757,Percentage completion: 39.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\225_HONOR-7C_M.jpg,CPBD value: 0.0,Percentage completion: 39.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\225_HONOR-7C_S.jpg,CPBD value: 0.5360824742268041,Percentage completion: 40.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\226_IPHONE-7-PLUS_M.jpeg,CPBD value: 0.47692307692307695,Percentage completion: 40.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\226_IPHONE-7-PLUS_S.jpeg,CPBD value: 0.62756052141527,Percentage completion: 40.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\227_SAMSUNG-GALAXY-A3_M.jpg,CPBD value: 0.0,Percentage completion: 40.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\227_SAMSUNG-GALAXY-A3_S.jpg,CPBD value: 0.6213592233009708,Percentage completion: 40.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\228_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg,CPBD value: 0.2983425414364641,Percentage completion: 40.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\228_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg,CPBD value: 0.6203703703703703,Percentage completion: 40.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\229_WILEYFOX-SWIFT-2-PLUS_M.jpg,CPBD value: 0.055900621118012424,Percentage completion: 41.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\229_WILEYFOX-SWIFT-2-PLUS_S.jpg,CPBD value: 0.5170178282009724,Percentage completion: 41.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\22_HUAWEI-Y9_M.jpg,CPBD value: 0.609271523178808,Percentage completion: 41.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\22_HUAWEI-Y9_S.jpg,CPBD value: 0.6546762589928058,Percentage completion: 41.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\230_NOKIA-21_M.jpg,CPBD value: 0,Percentage completion: 41.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\230_NOKIA-21_S.jpg,CPBD value: 0.3333333333333333,Percentage completion: 41.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\231_IPHONE-7-PLUS_M.jpg,CPBD value: 0.5576923076923077,Percentage completion: 41.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\231_IPHONE-7-PLUS_S.jpg,CPBD value: 0.5100821508588499,Percentage completion: 42.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\232_SAMSUNG-EDGE-7C_M.jpg,CPBD value: 0.5189873417721519,Percentage completion: 42.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\232_SAMSUNG-EDGE-7C_S.jpg,CPBD value: 0.5822368421052632,Percentage completion: 42.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\233_XIAOMI-REDMI-4_M.jpg,CPBD value: 0.39870689655172414,Percentage completion: 42.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\233_XIAOMI-REDMI-4_S.jpg,CPBD value: 0.4013266998341625,Percentage completion: 42.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\234_XIAOMI-REDMI-NOTE-5A-PRIME_M.jpg,CPBD value: 0.0,Percentage completion: 42.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\234_XIAOMI-REDMI-NOTE-5A-PRIME_S.jpg,CPBD value: 0.35454545454545455,Percentage completion: 42.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\235_IPHONE-SE_M.jpg,CPBD value: 0.2,Percentage completion: 43.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\235_IPHONE-SE_S.jpg,CPBD value: 0.5436893203883495,Percentage completion: 43.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\236_IPHONE-SE_M.jpg,CPBD value: 0.18181818181818182,Percentage completion: 43.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\236_IPHONE-SE_S.jpg,CPBD value: 0.778343949044586,Percentage completion: 43.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\237_SAMSUNG-GALAXY-J5_M.jpg,CPBD value: 0.0,Percentage completion: 43.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\237_SAMSUNG-GALAXY-J5_S.jpg,CPBD value: 0.5621951219512196,Percentage completion: 43.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\238_HONOR-7X_M.jpg,CPBD value: 0.13333333333333333,Percentage completion: 43.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\238_HONOR-7X_S.jpg,CPBD value: 0.6927152317880795,Percentage completion: 44.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\239_IPHONE-6S_M.jpeg,CPBD value: 0.3076923076923077,Percentage completion: 44.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\239_IPHONE-6S_S.jpeg,CPBD value: 0.5652866242038217,Percentage completion: 44.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\23_HUAWEI-P20_M.jpg,CPBD value: 0.5677655677655677,Percentage completion: 44.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\23_HUAWEI-P20_S.jpg,CPBD value: 0.686976389946687,Percentage completion: 44.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\240_HONOR-7X_M.jpg,CPBD value: 0.15172413793103448,Percentage completion: 44.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\240_HONOR-7X_S.jpg,CPBD value: 0.5515370705244123,Percentage completion: 44.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\241_HONOR-7X_M.jpg,CPBD value: 0.5384615384615384,Percentage completion: 45.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\241_HONOR-7X_S.jpg,CPBD value: 0.7656546489563567,Percentage completion: 45.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\242_IPHONE-6S_M.jpeg,CPBD value: 0.02112676056338028,Percentage completion: 45.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\242_IPHONE-6S_S.jpeg,CPBD value: 0.39753086419753086,Percentage completion: 45.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\243_HONOR-7X_M.jpg,CPBD value: 0.5080906148867314,Percentage completion: 45.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\243_HONOR-7X_S.jpg,CPBD value: 0.654300168634064,Percentage completion: 45.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\244_HONOR-7X_M.jpg,CPBD value: 0.36633663366336633,Percentage completion: 45.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\244_HONOR-7X_S.jpg,CPBD value: 0.7006172839506173,Percentage completion: 46.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\245_HONOR-7X_M.jpg,CPBD value: 0.6,Percentage completion: 46.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\245_HONOR-7X_S.jpg,CPBD value: 0.4385026737967914,Percentage completion: 46.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\246_HONOR-9_M.jpg,CPBD value: 0.22772277227722773,Percentage completion: 46.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\246_HONOR-9_S.jpg,CPBD value: 0.5583333333333333,Percentage completion: 46.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\247_HONOR-7X_M.jpg,CPBD value: 0.38095238095238093,Percentage completion: 46.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\247_HONOR-7X_S.jpg,CPBD value: 0.46107784431137727,Percentage completion: 46.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\248_IPHONE-7_M.jpeg,CPBD value: 0.0,Percentage completion: 47.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\248_IPHONE-7_S.jpeg,CPBD value: 0.5889763779527559,Percentage completion: 47.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\249_IPHONE-SE_M.jpeg,CPBD value: 0.23728813559322035,Percentage completion: 47.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\249_IPHONE-SE_S.jpeg,CPBD value: 0.5241935483870968,Percentage completion: 47.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\24_HUAWEI-Y9_M.jpg,CPBD value: 0.4878048780487805,Percentage completion: 47.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\24_HUAWEI-Y9_S.jpg,CPBD value: 0.5507246376811594,Percentage completion: 47.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\250_IPHONE-SE_M.jpeg,CPBD value: 0.5,Percentage completion: 47.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\250_IPHONE-SE_S.jpeg,CPBD value: 0.5596590909090909,Percentage completion: 48.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\251_IPHONE-6S_M.jpeg,CPBD value: 0.36764705882352944,Percentage completion: 48.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\251_IPHONE-6S_S.jpeg,CPBD value: 0.47804878048780486,Percentage completion: 48.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\252_HUAWEI-P30_M.jpg,CPBD value: 0.4433497536945813,Percentage completion: 48.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\252_HUAWEI-P30_S.jpg,CPBD value: 0.7446393762183235,Percentage completion: 48.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\253_XIAOMI-REDMI-NOTE-7_M.jpg,CPBD value: 0.23076923076923078,Percentage completion: 48.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\253_XIAOMI-REDMI-NOTE-7_S.jpg,CPBD value: 0.4909090909090909,Percentage completion: 48.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\254_XIAOMI-REDMI-7_M.jpg,CPBD value: 0.375,Percentage completion: 49.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\254_XIAOMI-REDMI-7_S.jpg,CPBD value: 0.7245508982035929,Percentage completion: 49.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\255_XIAOMI-REDMI-7_M.jpg,CPBD value: 0.23529411764705882,Percentage completion: 49.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\255_XIAOMI-REDMI-7_S.jpg,CPBD value: 0.5408163265306123,Percentage completion: 49.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\256_SAMSUNG-GALAXY-GRAND-PRIME_M.jpg,CPBD value: 0,Percentage completion: 49.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\256_SAMSUNG-GALAXY-GRAND-PRIME_S.jpg,CPBD value: 0.39361702127659576,Percentage completion: 49.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\257_HONOR-9_M.jpg,CPBD value: 0.35,Percentage completion: 49.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\257_HONOR-9_S.jpg,CPBD value: 0.6119402985074627,Percentage completion: 50.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\258_HONOR-10_M.jpg,CPBD value: 0.05555555555555555,Percentage completion: 50.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\258_HONOR-10_S.jpg,CPBD value: 0.5572232645403377,Percentage completion: 50.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\259_XIAOMI-REDMI-7_M.jpg,CPBD value: 0.6589805825242718,Percentage completion: 50.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\259_XIAOMI-REDMI-7_S.jpg,CPBD value: 0.5916030534351145,Percentage completion: 50.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\25_HUAWEI-Y9_M.jpg,CPBD value: 0.4868421052631579,Percentage completion: 50.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\25_HUAWEI-Y9_S.jpg,CPBD value: 0.5661577608142494,Percentage completion: 50.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\260_HUAWEI-NOVA-LITE_M.jpg,CPBD value: 0.21739130434782608,Percentage completion: 51.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\260_HUAWEI-NOVA-LITE_S.jpg,CPBD value: 0.6192307692307693,Percentage completion: 51.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\261_HONOR-10_M.jpg,CPBD value: 0,Percentage completion: 51.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\261_HONOR-10_S.jpg,CPBD value: 0.2914046121593291,Percentage completion: 51.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\262_IPHONE-SE_M.jpg,CPBD value: 0.0996309963099631,Percentage completion: 51.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\262_IPHONE-SE_S.jpg,CPBD value: 0.8271375464684015,Percentage completion: 51.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\263_XIAOMI-REDMI-3S_M.jpg,CPBD value: 0.45,Percentage completion: 51.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\263_XIAOMI-REDMI-3S_S.jpg,CPBD value: 0.6466992665036675,Percentage completion: 52.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\264_IPHONE-7_M.jpeg,CPBD value: 0.2765957446808511,Percentage completion: 52.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\264_IPHONE-7_S.jpeg,CPBD value: 0.6026344676180022,Percentage completion: 52.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\265_HONOR-9-LITE_M.jpg,CPBD value: 0.4,Percentage completion: 52.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\265_HONOR-9-LITE_S.jpg,CPBD value: 0.49733570159857904,Percentage completion: 52.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\266_SONY-NEX-5T_M.JPG,CPBD value: 0.375,Percentage completion: 52.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\266_SONY-NEX-5T_S.JPG,CPBD value: 0.640625,Percentage completion: 52.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\267_SONY-NEX-5T_M.JPG,CPBD value: 0,Percentage completion: 53.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\267_SONY-NEX-5T_S.JPG,CPBD value: 0.6013071895424836,Percentage completion: 53.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\268_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.3125,Percentage completion: 53.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\268_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.5855614973262032,Percentage completion: 53.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\269_NIKON-D3400-18-55MM_M.JPG,CPBD value: 1.0,Percentage completion: 53.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\269_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.47619047619047616,Percentage completion: 53.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\26_HONOR-8X_M.jpg,CPBD value: 0.0,Percentage completion: 53.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\26_HONOR-8X_S.jpg,CPBD value: 0.6594948550046773,Percentage completion: 54.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\270_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.25,Percentage completion: 54.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\270_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.5497416020671835,Percentage completion: 54.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\271_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.0,Percentage completion: 54.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\271_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.31237721021611004,Percentage completion: 54.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\272_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.14285714285714285,Percentage completion: 54.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\272_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.36486486486486486,Percentage completion: 54.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\273_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.0,Percentage completion: 55.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\273_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.4161073825503356,Percentage completion: 55.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\274_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.43243243243243246,Percentage completion: 55.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\274_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.3568627450980392,Percentage completion: 55.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\275_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.41836734693877553,Percentage completion: 55.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\275_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.7609489051094891,Percentage completion: 55.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\276_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.5065502183406113,Percentage completion: 55.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\276_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.6042590949423248,Percentage completion: 56.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\277_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0,Percentage completion: 56.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\277_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.3838383838383838,Percentage completion: 56.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\278_HONOR-7X_M.jpg,CPBD value: 0.43617021276595747,Percentage completion: 56.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\278_HONOR-7X_S.jpg,CPBD value: 0.5325301204819277,Percentage completion: 56.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\279_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0,Percentage completion: 56.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\279_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.216,Percentage completion: 56.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\27_HONOR-8X_M.jpg,CPBD value: 0.0,Percentage completion: 57.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\27_HONOR-8X_S.jpg,CPBD value: 0.67003367003367,Percentage completion: 57.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\280_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.0,Percentage completion: 57.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\280_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.5330396475770925,Percentage completion: 57.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\281_NIKON-D3400-18-55MM_M.JPG,CPBD value: 0.16666666666666666,Percentage completion: 57.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\281_NIKON-D3400-18-55MM_S.JPG,CPBD value: 0.5456140350877193,Percentage completion: 57.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\282_SONY-NEX-5T_M.JPG,CPBD value: 0.0,Percentage completion: 57.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\282_SONY-NEX-5T_S.JPG,CPBD value: 0.6964285714285714,Percentage completion: 58.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\283_HONOR-10_M.jpg,CPBD value: 0.045845272206303724,Percentage completion: 58.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\283_HONOR-10_S.jpg,CPBD value: 0.6571428571428571,Percentage completion: 58.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\284_SONY-NEX-5T_M.JPG,CPBD value: 0.5,Percentage completion: 58.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\284_SONY-NEX-5T_S.JPG,CPBD value: 0.7144508670520231,Percentage completion: 58.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\285_SONY-NEX-5T_M.JPG,CPBD value: 0.09090909090909091,Percentage completion: 58.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\285_SONY-NEX-5T_S.JPG,CPBD value: 0.491588785046729,Percentage completion: 58.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\286_SONY-NEX-5T_M.JPG,CPBD value: 0.48623853211009177,Percentage completion: 59.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\286_SONY-NEX-5T_S.JPG,CPBD value: 0.757201646090535,Percentage completion: 59.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\287_WILEYFOX-SWIFT-2-PLUS_M.jpg,CPBD value: 0.0,Percentage completion: 59.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\287_WILEYFOX-SWIFT-2-PLUS_S.jpg,CPBD value: 0.3358116480793061,Percentage completion: 59.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\288_XIAOMI-REDMI-NOTE-7_M.jpg,CPBD value: 0.345,Percentage completion: 59.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\288_XIAOMI-REDMI-NOTE-7_S.jpg,CPBD value: 0.6710992907801419,Percentage completion: 59.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\289_WILEYFOX-SWIFT-2-PLUS_M.jpg,CPBD value: 0.0,Percentage completion: 59.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\289_WILEYFOX-SWIFT-2-PLUS_S.jpg,CPBD value: 0.19220779220779222,Percentage completion: 60.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\28_HONOR-8X_M.jpg,CPBD value: 0.4626865671641791,Percentage completion: 60.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\28_HONOR-8X_S.jpg,CPBD value: 0.6526315789473685,Percentage completion: 60.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\290_IPHONE-SE_M.jpg,CPBD value: 0.19469026548672566,Percentage completion: 60.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\290_IPHONE-SE_S.jpg,CPBD value: 0.5483234714003945,Percentage completion: 60.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\291_IPHONE-SE_M.jpg,CPBD value: 0.10655737704918032,Percentage completion: 60.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\291_IPHONE-SE_S.jpg,CPBD value: 0.46842105263157896,Percentage completion: 60.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\292_NIKON-D3400-35MM_M.JPG,CPBD value: 0.2727272727272727,Percentage completion: 61.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\292_NIKON-D3400-35MM_S.JPG,CPBD value: 0.5896980461811723,Percentage completion: 61.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\293_NIKON-D3400-35MM_M.JPG,CPBD value: 0.7288135593220338,Percentage completion: 61.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\293_NIKON-D3400-35MM_S.JPG,CPBD value: 0.5707248416608023,Percentage completion: 61.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\294_PRESTIGIO-MULTI-PHONE_M.jpg,CPBD value: 0.3883495145631068,Percentage completion: 61.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\294_PRESTIGIO-MULTI-PHONE_S.jpg,CPBD value: 0.5452562704471101,Percentage completion: 61.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\295_HONOR-7X_M.jpg,CPBD value: 0.45180722891566266,Percentage completion: 61.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\295_HONOR-7X_S.jpg,CPBD value: 0.5965372507869885,Percentage completion: 62.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\296_NIKON-D3400-35MM_M.JPG,CPBD value: 0.6097560975609756,Percentage completion: 62.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\296_NIKON-D3400-35MM_S.JPG,CPBD value: 0.7402044293015332,Percentage completion: 62.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\297_NIKON-D3400-35MM_M.JPG,CPBD value: 0.15333333333333332,Percentage completion: 62.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\297_NIKON-D3400-35MM_S.JPG,CPBD value: 0.5769230769230769,Percentage completion: 62.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\298_NIKON-D3400-35MM_M.JPG,CPBD value: 0.5,Percentage completion: 62.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\298_NIKON-D3400-35MM_S.JPG,CPBD value: 0.6881720430107527,Percentage completion: 62.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\299_NIKON-D3400-35MM_M.JPG,CPBD value: 0.3548387096774194,Percentage completion: 63.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\299_NIKON-D3400-35MM_S.JPG,CPBD value: 0.5454545454545454,Percentage completion: 63.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\29_HONOR-7X_M.jpg,CPBD value: 0.2289156626506024,Percentage completion: 63.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\29_HONOR-7X_S.jpg,CPBD value: 0.44029850746268656,Percentage completion: 63.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\2_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.20512820512820512,Percentage completion: 63.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\2_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.645320197044335,Percentage completion: 63.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\300_XIAOMI-REDMI-NOTE-7_M.jpg,CPBD value: 0.38235294117647056,Percentage completion: 63.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\300_XIAOMI-REDMI-NOTE-7_S.jpg,CPBD value: 0.3640319071791153,Percentage completion: 64.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\301_NIKON-D3400-35MM_M.JPG,CPBD value: 0.5793991416309013,Percentage completion: 64.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\301_NIKON-D3400-35MM_S.JPG,CPBD value: 0.5544707091469682,Percentage completion: 64.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\302_IPHONE-SE_M.jpeg,CPBD value: 0.265625,Percentage completion: 64.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\302_IPHONE-SE_S.jpeg,CPBD value: 0.48727272727272725,Percentage completion: 64.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\303_SAMSUNG-GALAXY-A8_M.jpg,CPBD value: 0.0,Percentage completion: 64.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\303_SAMSUNG-GALAXY-A8_S.jpg,CPBD value: 0.36585365853658536,Percentage completion: 64.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\304_SAMSUNG-GALAXY-J7_M.jpg,CPBD value: 0.14285714285714285,Percentage completion: 65.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\304_SAMSUNG-GALAXY-J7_S.jpg,CPBD value: 0.45864661654135336,Percentage completion: 65.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\305_HONOR-9_M.jpg,CPBD value: 0.19230769230769232,Percentage completion: 65.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\305_HONOR-9_S.jpg,CPBD value: 0.45987654320987653,Percentage completion: 65.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\306_XIAOMI-REDMI-5-PLUS_M.jpg,CPBD value: 0.30864197530864196,Percentage completion: 65.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\306_XIAOMI-REDMI-5-PLUS_S.jpg,CPBD value: 0.5405405405405406,Percentage completion: 65.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\307_HONOR-7X_M.jpg,CPBD value: 0.2785714285714286,Percentage completion: 65.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\307_HONOR-7X_S.jpg,CPBD value: 0.3415384615384615,Percentage completion: 66.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\308_IPHONE-6S_M.jpeg,CPBD value: 0.24778761061946902,Percentage completion: 66.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\308_IPHONE-6S_S.jpeg,CPBD value: 0.5495283018867925,Percentage completion: 66.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\309_SAMSUNG-GALAXY-A8_M.jpg,CPBD value: 0.0,Percentage completion: 66.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\309_SAMSUNG-GALAXY-A8_S.jpg,CPBD value: 0.41896024464831805,Percentage completion: 66.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\30_HONOR-8X_M.jpg,CPBD value: 0.43661971830985913,Percentage completion: 66.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\30_HONOR-8X_S.jpg,CPBD value: 0.3584158415841584,Percentage completion: 66.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\310_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.41304347826086957,Percentage completion: 67.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\310_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.6707482993197279,Percentage completion: 67.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\311_HONOR-6X_M.jpg,CPBD value: 0.38461538461538464,Percentage completion: 67.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\311_HONOR-6X_S.jpg,CPBD value: 0.6394052044609665,Percentage completion: 67.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\312_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg,CPBD value: 0.08433734939759036,Percentage completion: 67.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\312_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg,CPBD value: 0.6385542168674698,Percentage completion: 67.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\313_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.2982456140350877,Percentage completion: 67.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\313_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.5945165945165946,Percentage completion: 68.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\314_IPHONE-5S_M.jpeg,CPBD value: 0.3333333333333333,Percentage completion: 68.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\314_IPHONE-5S_S.jpeg,CPBD value: 0.7103825136612022,Percentage completion: 68.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\315_HUAWEI-NOVA-LITE_M.jpg,CPBD value: 0.06349206349206349,Percentage completion: 68.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\315_HUAWEI-NOVA-LITE_S.jpg,CPBD value: 0.362962962962963,Percentage completion: 68.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\316_IPHONE-7_M.jpeg,CPBD value: 0.20689655172413793,Percentage completion: 68.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\316_IPHONE-7_S.jpeg,CPBD value: 0.620903454384411,Percentage completion: 68.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\317_IPHONE-8-PLUS_M.jpg,CPBD value: 0.325,Percentage completion: 69.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\317_IPHONE-8-PLUS_S.jpg,CPBD value: 0.5986394557823129,Percentage completion: 69.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\318_HONOR-7C_M.jpg,CPBD value: 0.2647058823529412,Percentage completion: 69.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\318_HONOR-7C_S.jpg,CPBD value: 0.7560594214229867,Percentage completion: 69.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\319_XIAOMI-REDMI-NOTE-4X_M.jpg,CPBD value: 0.4182098765432099,Percentage completion: 69.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\319_XIAOMI-REDMI-NOTE-4X_S.jpg,CPBD value: 0.51363236587511,Percentage completion: 69.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\31_IPHONE-SE_M.jpg,CPBD value: 0.12903225806451613,Percentage completion: 69.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\31_IPHONE-SE_S.jpg,CPBD value: 0.6610169491525424,Percentage completion: 70.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\320_HONOR-7X_M.jpg,CPBD value: 0,Percentage completion: 70.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\320_HONOR-7X_S.jpg,CPBD value: 0.05714285714285714,Percentage completion: 70.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\321_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.46511627906976744,Percentage completion: 70.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\321_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.6388261851015802,Percentage completion: 70.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\322_HONOR-7C_M.jpg,CPBD value: 0,Percentage completion: 70.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\322_HONOR-7C_S.jpg,CPBD value: 0.13793103448275862,Percentage completion: 70.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\323_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.09554140127388536,Percentage completion: 71.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\323_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.5500770416024653,Percentage completion: 71.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\324_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg,CPBD value: 0.0,Percentage completion: 71.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\324_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg,CPBD value: 0.658357771260997,Percentage completion: 71.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\325_SAMSUNG-GALAXY-J3_M.jpg,CPBD value: 0.4578313253012048,Percentage completion: 71.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\325_SAMSUNG-GALAXY-J3_S.jpg,CPBD value: 0.562753036437247,Percentage completion: 71.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\326_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.15025906735751296,Percentage completion: 71.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\326_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.5556930693069307,Percentage completion: 72.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\327_IPHONE-SE_M.jpg,CPBD value: 0.24806201550387597,Percentage completion: 72.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\327_IPHONE-SE_S.jpg,CPBD value: 0.706338028169014,Percentage completion: 72.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\328_SAMSUNG-GALAXY-J3_M.jpg,CPBD value: 0.20588235294117646,Percentage completion: 72.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\328_SAMSUNG-GALAXY-J3_S.jpg,CPBD value: 0.6571428571428571,Percentage completion: 72.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\329_HONOR-7C_M.jpg,CPBD value: 0.0,Percentage completion: 72.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\329_HONOR-7C_S.jpg,CPBD value: 0.5106732348111659,Percentage completion: 72.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\32_HUAWEI-P-SMART_M.jpg,CPBD value: 0.11926605504587157,Percentage completion: 73.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\32_HUAWEI-P-SMART_S.jpg,CPBD value: 0.5824742268041238,Percentage completion: 73.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\330_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.48717948717948717,Percentage completion: 73.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\330_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.6008583690987125,Percentage completion: 73.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\331_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.4339622641509434,Percentage completion: 73.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\331_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.6026143790849673,Percentage completion: 73.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\332_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.5384615384615384,Percentage completion: 73.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\332_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.6772334293948127,Percentage completion: 74.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\333_HONOR-7X_M.jpg,CPBD value: 0.7372262773722628,Percentage completion: 74.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\333_HONOR-7X_S.jpg,CPBD value: 0.5899280575539568,Percentage completion: 74.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\334_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.0,Percentage completion: 74.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\334_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.5544267053701016,Percentage completion: 74.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\335_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.2122905027932961,Percentage completion: 74.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\335_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.6119402985074627,Percentage completion: 74.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\336_ASUS-ZENFONE-LIVE-ZB501KL_M.jpg,CPBD value: 0.05263157894736842,Percentage completion: 75.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\336_ASUS-ZENFONE-LIVE-ZB501KL_S.jpg,CPBD value: 0.6881720430107527,Percentage completion: 75.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\337_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.09467455621301775,Percentage completion: 75.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\337_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.5669064748201439,Percentage completion: 75.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\338_IPHONE-SE_M.jpg,CPBD value: 0.39568345323741005,Percentage completion: 75.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\338_IPHONE-SE_S.jpg,CPBD value: 0.6370106761565836,Percentage completion: 75.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\339_XIAOMI-REDMI-4X_M.jpg,CPBD value: 0.36363636363636365,Percentage completion: 75.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\339_XIAOMI-REDMI-4X_S.jpg,CPBD value: 0.6588235294117647,Percentage completion: 76.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\33_HONOR-8X_M.jpg,CPBD value: 0.48299319727891155,Percentage completion: 76.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\33_HONOR-8X_S.jpg,CPBD value: 0.5871559633027523,Percentage completion: 76.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\340_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.11764705882352941,Percentage completion: 76.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\340_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.4228456913827655,Percentage completion: 76.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\341_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.058823529411764705,Percentage completion: 76.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\341_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.45425867507886436,Percentage completion: 76.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\342_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.14358974358974358,Percentage completion: 77.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\342_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.5475409836065573,Percentage completion: 77.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\343_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.24444444444444444,Percentage completion: 77.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\343_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.5753424657534246,Percentage completion: 77.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\344_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.047058823529411764,Percentage completion: 77.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\344_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.35602094240837695,Percentage completion: 77.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\345_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.0,Percentage completion: 77.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\345_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.5116279069767442,Percentage completion: 78.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\346_HUAWEI-MATE20_M.jpg,CPBD value: 0.4107142857142857,Percentage completion: 78.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\346_HUAWEI-MATE20_S.jpg,CPBD value: 0.6223491027732463,Percentage completion: 78.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\347_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.17708333333333334,Percentage completion: 78.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\347_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.49725274725274726,Percentage completion: 78.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\348_IPHONE-8_M.JPG,CPBD value: 0.11904761904761904,Percentage completion: 78.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\348_IPHONE-8_S.JPG,CPBD value: 0.7233820459290188,Percentage completion: 78.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\349_IPHONE-SE_M.jpg,CPBD value: 0.3333333333333333,Percentage completion: 79.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\349_IPHONE-SE_S.jpg,CPBD value: 0.5368421052631579,Percentage completion: 79.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\34_HONOR-8X_M.jpg,CPBD value: 0.11842105263157894,Percentage completion: 79.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\34_HONOR-8X_S.jpg,CPBD value: 0.6925373134328359,Percentage completion: 79.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\35_IPHONE-6S_M.jpeg,CPBD value: 0.14482758620689656,Percentage completion: 79.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\35_IPHONE-6S_S.jpeg,CPBD value: 0.5673758865248227,Percentage completion: 79.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\36_HONOR-8X_M.jpg,CPBD value: 0.13793103448275862,Percentage completion: 79.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\36_HONOR-8X_S.jpg,CPBD value: 0.362962962962963,Percentage completion: 80.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\37_HONOR-8X_M.jpg,CPBD value: 0.22857142857142856,Percentage completion: 80.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\37_HONOR-8X_S.jpg,CPBD value: 0.5915948275862069,Percentage completion: 80.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\38_HONOR-8X_M.jpg,CPBD value: 0.6724137931034483,Percentage completion: 80.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\38_HONOR-8X_S.jpg,CPBD value: 0.695274831243973,Percentage completion: 80.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\39_XIAOMI-MI8-LITE_M.jpg,CPBD value: 0.5282608695652173,Percentage completion: 80.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\39_XIAOMI-MI8-LITE_S.jpg,CPBD value: 0.636604774535809,Percentage completion: 80.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\3_HUAWEI-NOVA-LITE_M.jpg,CPBD value: 0.48148148148148145,Percentage completion: 81.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\3_HUAWEI-NOVA-LITE_S.jpg,CPBD value: 0.5603644646924829,Percentage completion: 81.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\40_IPHONE-6S_M.jpeg,CPBD value: 0.5365853658536586,Percentage completion: 81.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\40_IPHONE-6S_S.jpeg,CPBD value: 0.5919117647058824,Percentage completion: 81.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\41_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.02127659574468085,Percentage completion: 81.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\41_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.413716814159292,Percentage completion: 81.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\42_NIKON-D3400-35MM_M.JPG,CPBD value: 0.6458333333333334,Percentage completion: 81.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\42_NIKON-D3400-35MM_S.JPG,CPBD value: 0.6279863481228669,Percentage completion: 82.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\43_HONOR-8X_M.jpg,CPBD value: 0.36923076923076925,Percentage completion: 82.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\43_HONOR-8X_S.jpg,CPBD value: 0.4649122807017544,Percentage completion: 82.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\44_SONY-XPERIA-E5_M.jpg,CPBD value: 0.42744063324538256,Percentage completion: 82.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\44_SONY-XPERIA-E5_S.jpg,CPBD value: 0.5578764142732812,Percentage completion: 82.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\45_HONOR-7X_M.jpg,CPBD value: 0.4089068825910931,Percentage completion: 82.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\45_HONOR-7X_S.jpg,CPBD value: 0.5249169435215947,Percentage completion: 82.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\46_IPHONE-8-PLUS_M.jpg,CPBD value: 0.3263888888888889,Percentage completion: 83.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\46_IPHONE-8-PLUS_S.jpg,CPBD value: 0.562406015037594,Percentage completion: 83.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\47_XIAOMI-REDMI-7_M.jpg,CPBD value: 0.58913813459268,Percentage completion: 83.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\47_XIAOMI-REDMI-7_S.jpg,CPBD value: 0.6588235294117647,Percentage completion: 83.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\48_HONOR-8X_M.jpg,CPBD value: 0.26666666666666666,Percentage completion: 83.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\48_HONOR-8X_S.jpg,CPBD value: 0.574025974025974,Percentage completion: 83.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\49_HONOR-8X_M.jpg,CPBD value: 0.3137254901960784,Percentage completion: 83.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\49_HONOR-8X_S.jpg,CPBD value: 0.696105702364395,Percentage completion: 84.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\4_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.1724137931034483,Percentage completion: 84.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\4_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.5462478184991274,Percentage completion: 84.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\50_HONOR-8X_M.jpg,CPBD value: 0.07692307692307693,Percentage completion: 84.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\50_HONOR-8X_S.jpg,CPBD value: 0.5350140056022409,Percentage completion: 84.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\51_IPHONE-SE_M.jpg,CPBD value: 0.0,Percentage completion: 84.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\51_IPHONE-SE_S.jpg,CPBD value: 0.45569620253164556,Percentage completion: 84.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\52_HONOR-8X_M.jpg,CPBD value: 0.36065573770491804,Percentage completion: 85.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\52_HONOR-8X_S.jpg,CPBD value: 0.42105263157894735,Percentage completion: 85.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\53_NIKON-D3400-35MM_M.JPG,CPBD value: 0.7945205479452054,Percentage completion: 85.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\53_NIKON-D3400-35MM_S.JPG,CPBD value: 0.6288461538461538,Percentage completion: 85.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\54_HONOR-8X_M.jpg,CPBD value: 0.5060975609756098,Percentage completion: 85.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\54_HONOR-8X_S.jpg,CPBD value: 0.5802292263610315,Percentage completion: 85.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\55_HONOR-8X_M.jpg,CPBD value: 0.5142857142857142,Percentage completion: 85.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\55_HONOR-8X_S.jpg,CPBD value: 0.6993424985056784,Percentage completion: 86.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\56_HONOR-8X_M.jpg,CPBD value: 0.18840579710144928,Percentage completion: 86.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\56_HONOR-8X_S.jpg,CPBD value: 0.5681415929203539,Percentage completion: 86.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\57_IPHONE-SE_M.jpg,CPBD value: 0.13793103448275862,Percentage completion: 86.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\57_IPHONE-SE_S.jpg,CPBD value: 0.6961038961038961,Percentage completion: 86.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\58_IPHONE-6S_M.jpeg,CPBD value: 0.36363636363636365,Percentage completion: 86.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\58_IPHONE-6S_S.jpeg,CPBD value: 0.3383458646616541,Percentage completion: 86.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\59_IPHONE-6S_M.jpg,CPBD value: 0.38372093023255816,Percentage completion: 87.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\59_IPHONE-6S_S.jpg,CPBD value: 0.6894689468946895,Percentage completion: 87.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\5_XIAOMI-PROCOFONE-F1_M.jpg,CPBD value: 0.22270742358078602,Percentage completion: 87.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\5_XIAOMI-PROCOFONE-F1_S.jpg,CPBD value: 0.4340770791075051,Percentage completion: 87.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\60_IPHONE-8-PLUS_M.jpg,CPBD value: 0.16806722689075632,Percentage completion: 87.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\60_IPHONE-8-PLUS_S.jpg,CPBD value: 0.3300970873786408,Percentage completion: 87.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\61_XIAOMI-REDMI-7_M.jpg,CPBD value: 0.35973837209302323,Percentage completion: 87.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\61_XIAOMI-REDMI-7_S.jpg,CPBD value: 0.5357142857142857,Percentage completion: 88.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\62_HONOR-8X_M.jpg,CPBD value: 0.23076923076923078,Percentage completion: 88.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\62_HONOR-8X_S.jpg,CPBD value: 0.4972118959107807,Percentage completion: 88.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\63_HUAWEI-P20_M.jpg,CPBD value: 0.453416149068323,Percentage completion: 88.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\63_HUAWEI-P20_S.jpg,CPBD value: 0.6411764705882353,Percentage completion: 88.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\64_SAMSUNG-GALAXY-S5_M.jpg,CPBD value: 0,Percentage completion: 88.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\64_SAMSUNG-GALAXY-S5_S.jpg,CPBD value: 0.4722222222222222,Percentage completion: 88.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\65_NIKON-D3400-35MM_M.JPG,CPBD value: 0.6549707602339181,Percentage completion: 89.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\65_NIKON-D3400-35MM_S.JPG,CPBD value: 0.5361702127659574,Percentage completion: 89.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\66_HONOR-8X_M.jpg,CPBD value: 0.0,Percentage completion: 89.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\66_HONOR-8X_S.jpg,CPBD value: 0.6157635467980296,Percentage completion: 89.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\67_HONOR-8X_M.jpg,CPBD value: 0,Percentage completion: 89.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\67_HONOR-8X_S.jpg,CPBD value: 0.24621212121212122,Percentage completion: 89.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\68_HONOR-8X_M.jpg,CPBD value: 0.13333333333333333,Percentage completion: 89.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\68_HONOR-8X_S.jpg,CPBD value: 0.6186046511627907,Percentage completion: 90.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\69_SAMSUNG-GALAXY-J3_M.jpg,CPBD value: 1.0,Percentage completion: 90.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\69_SAMSUNG-GALAXY-J3_S.jpg,CPBD value: 0.5359342915811088,Percentage completion: 90.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\6_HUAWEI-MATE20_M.jpg,CPBD value: 0.71334431630972,Percentage completion: 90.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\6_HUAWEI-MATE20_S.jpg,CPBD value: 0.5445180279617365,Percentage completion: 90.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\70_HONOR-8X_M.jpg,CPBD value: 0.10810810810810811,Percentage completion: 90.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\70_HONOR-8X_S.jpg,CPBD value: 0.4672364672364672,Percentage completion: 90.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\71_SAMSUNG-GALAXY-A6_M.jpg,CPBD value: 0.2,Percentage completion: 91.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\71_SAMSUNG-GALAXY-A6_S.jpg,CPBD value: 0.5181818181818182,Percentage completion: 91.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\72_IPHONE-8_M.jpg,CPBD value: 0.0,Percentage completion: 91.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\72_IPHONE-8_S.jpg,CPBD value: 0.4270650263620387,Percentage completion: 91.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\73_PANASONIC-DMC-TZ35_M.JPG,CPBD value: 0.75,Percentage completion: 91.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\73_PANASONIC-DMC-TZ35_S.JPG,CPBD value: 0.8091482649842271,Percentage completion: 91.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\74_HONOR-8X_M.jpg,CPBD value: 0.03125,Percentage completion: 91.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\74_HONOR-8X_S.jpg,CPBD value: 0.3644366197183099,Percentage completion: 92.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\75_HONOR-8X_M.jpg,CPBD value: 0.0,Percentage completion: 92.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\75_HONOR-8X_S.jpg,CPBD value: 0.6264800861141012,Percentage completion: 92.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\76_HONOR-8X_M.jpg,CPBD value: 0.0,Percentage completion: 92.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\76_HONOR-8X_S.jpg,CPBD value: 0.442911877394636,Percentage completion: 92.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\77_HONOR-7C_M.jpg,CPBD value: 0.2923076923076923,Percentage completion: 92.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\77_HONOR-7C_S.jpg,CPBD value: 0.6175071360608944,Percentage completion: 92.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\78_NIKON-D3400-35MM_M.JPG,CPBD value: 0.6211764705882353,Percentage completion: 93.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\78_NIKON-D3400-35MM_S.JPG,CPBD value: 0.5634408602150538,Percentage completion: 93.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\79_HUAWEI-P30-PRO_M.jpg,CPBD value: 0.6198347107438017,Percentage completion: 93.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\79_HUAWEI-P30-PRO_S.jpg,CPBD value: 0.6259659969088099,Percentage completion: 93.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\7_NIKON-D3400-35MM_M.JPG,CPBD value: 0.4214046822742475,Percentage completion: 93.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\7_NIKON-D3400-35MM_S.JPG,CPBD value: 0.6827133479212254,Percentage completion: 93.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\80_HUAWEI-P30-PRO_M.jpg,CPBD value: 0.6010498687664042,Percentage completion: 93.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\80_HUAWEI-P30-PRO_S.jpg,CPBD value: 0.6925515055467512,Percentage completion: 94.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\81_SAMSUNG-GALAXY-J3_M.jpg,CPBD value: 0,Percentage completion: 94.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\81_SAMSUNG-GALAXY-J3_S.jpg,CPBD value: 0.6752136752136753,Percentage completion: 94.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\82_HONOR-8X_M.jpg,CPBD value: 0.3783783783783784,Percentage completion: 94.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\82_HONOR-8X_S.jpg,CPBD value: 0.4960380348652932,Percentage completion: 94.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\83_HONOR-8X_M.jpg,CPBD value: 0.3157894736842105,Percentage completion: 94.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\83_HONOR-8X_S.jpg,CPBD value: 0.4557823129251701,Percentage completion: 94.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\84_IPHONE-XR_M.jpeg,CPBD value: 0.3648989898989899,Percentage completion: 95.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\84_IPHONE-XR_S.jpeg,CPBD value: 0.6987654320987654,Percentage completion: 95.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\85_HONOR-8X_M.jpg,CPBD value: 0.043478260869565216,Percentage completion: 95.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\85_HONOR-8X_S.jpg,CPBD value: 0.5240875912408759,Percentage completion: 95.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\86_HONOR-8X_M.jpg,CPBD value: 0.05263157894736842,Percentage completion: 95.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\86_HONOR-8X_S.jpg,CPBD value: 0.4098573281452659,Percentage completion: 95.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\87_IPHONE-8-PLUS_M.jpg,CPBD value: 0.049019607843137254,Percentage completion: 95.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\87_IPHONE-8-PLUS_S.jpg,CPBD value: 0.5479041916167665,Percentage completion: 96.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\88_HONOR-8X_M.jpg,CPBD value: 0.3333333333333333,Percentage completion: 96.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\88_HONOR-8X_S.jpg,CPBD value: 0.5818540433925049,Percentage completion: 96.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\89_IPHONE-6S_M.jpeg,CPBD value: 0.2,Percentage completion: 96.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\89_IPHONE-6S_S.jpeg,CPBD value: 0.49504950495049505,Percentage completion: 96.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\8_SAMSUNG-GALAXY-A6_M.jpg,CPBD value: 0.0,Percentage completion: 96.71%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\8_SAMSUNG-GALAXY-A6_S.jpg,CPBD value: 0.66484268125855,Percentage completion: 96.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\90_HONOR-7X_M.jpg,CPBD value: 0.45121951219512196,Percentage completion: 97.0%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\90_HONOR-7X_S.jpg,CPBD value: 0.5401273885350318,Percentage completion: 97.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\91_HONOR-7X_M.jpg,CPBD value: 0.7307692307692307,Percentage completion: 97.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\91_HONOR-7X_S.jpg,CPBD value: 0.4801980198019802,Percentage completion: 97.43%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\92_IPHONE-7_M.jpeg,CPBD value: 0.05,Percentage completion: 97.57%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\92_IPHONE-7_S.jpeg,CPBD value: 0.609375,Percentage completion: 97.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\93_HONOR-7X_M.jpg,CPBD value: 0.47244094488188976,Percentage completion: 97.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\93_HONOR-7X_S.jpg,CPBD value: 0.667296786389414,Percentage completion: 98.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\94_HONOR-7X_M.jpg,CPBD value: 0.4418604651162791,Percentage completion: 98.14%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\94_HONOR-7X_S.jpg,CPBD value: 0.6680327868852459,Percentage completion: 98.29%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\95_HONOR-7X_M.jpg,CPBD value: 0.6798245614035088,Percentage completion: 98.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\95_HONOR-7X_S.jpg,CPBD value: 0.6344410876132931,Percentage completion: 98.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\96_HONOR-7X_M.jpg,CPBD value: 0.6956521739130435,Percentage completion: 98.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\96_HONOR-7X_S.jpg,CPBD value: 0.575,Percentage completion: 98.86%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\97_HONOR-7X_M.jpg,CPBD value: 0.5373134328358209,Percentage completion: 99.0%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\97_HONOR-7X_S.jpg,CPBD value: 0.5557986870897156,Percentage completion: 99.14%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\98_HONOR-7X_M.jpg,CPBD value: 0.2857142857142857,Percentage completion: 99.29%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\98_HONOR-7X_S.jpg,CPBD value: 0.6212424849699398,Percentage completion: 99.43%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\99_HONOR-7X_M.jpg,CPBD value: 0.582010582010582,Percentage completion: 99.57%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\99_HONOR-7X_S.jpg,CPBD value: 0.6639492753623188,Percentage completion: 99.71%
+Image moved to: dataset\clear image
+Image: dataset\pending_image\9_HUAWEI-P20_M.jpg,CPBD value: 0.29545454545454547,Percentage completion: 99.86%
+Image moved to: dataset\blurred image
+Image: dataset\pending_image\9_HUAWEI-P20_S.jpg,CPBD value: 0.5982532751091703,Percentage completion: 100.0%
+Image moved to: dataset\clear image
+Accuracy of Sharpness detection is: 73.42857142857143 %
+Accuracy of Blur detection is: 80.28571428571428 %
+Total Time:2109.86s,average time per image:3.01s per image
